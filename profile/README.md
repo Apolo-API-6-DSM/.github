@@ -14,6 +14,7 @@ Caso deseje ir para um repositório específico, clique nos links abaixo:
 - **Frontend Web:** [apolo-frontend](https://github.com/Apolo-API-6-DSM/apolo-frontend)
 - **Inteligência Artificial:** [apolo-ia](https://github.com/Apolo-API-6-DSM/apolo-IA)
 - **Microsserviço de tratamento do dataset:** [apolo-serviço_tratamento](https://github.com/Apolo-API-6-DSM/apolo-pre_processamento)
+- **Busca Semântica:** [apolo-busca-semantica](https://github.com/Apolo-API-6-DSM/apolo-busca-semantica)
 
 ---
 
